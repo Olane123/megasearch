@@ -1,0 +1,9 @@
+﻿body{
+    background:linear-gradient(to right, purple, skyblue);
+    color:white;
+}
+.main-container {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
